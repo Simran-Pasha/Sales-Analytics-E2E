@@ -168,3 +168,15 @@ An interactive Power BI dashboard was developed using DAX measures and multiple 
 ## 📌 Skills Demonstrated
 
 **Data Cleaning | SQL | Data Validation | Business Analysis | DAX | Power BI | Data Visualization | KPI Development | Dashboard Development | Exploratory Data Analysis**
+
+---
+
+## 📸 Dashboard Preview
+
+### Sales Analytics Dashboard
+
+![Sales Analytics Dashboard](Sales_analysis_Dashboard1.png)
+
+### Detailed Sales Analysis
+
+![Detailed Sales Analysis](Sales_analysis_Dashboard2.png)  
